@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Others Category
+description: 一些杂七杂八的笔记或者心得
 image:
 
 # Badge style
