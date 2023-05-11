@@ -1,13 +1,14 @@
 ---
-title: "如何获得一个低成本的K8S集群"
-date: 2023-04-30T12:28:33+08:00 
-draft: true
 categories:
     - devops
+date: "2023-05-11T15:29:01+08:00"
+description: 最近一直在玩Kubernetes（K8s），我想把之前白嫖的甲骨文主机、国内的一台腾
+image: ""
+slug: ru-he-huo-de-ge-di-cheng-ben-de-k8sji-qun
 tags:
     - k8s
+title: 如何获得一个低成本的K8s集群
 ---
-
 最近一直在玩Kubernetes（K8s），我想把之前白嫖的甲骨文主机、国内的一台腾讯云主机和家里的淘汰电脑整合到一起，组成一个K8s集群。这样，我既可以方便地使用和管理这些计算资源，又可以节省成本。
 
 在这个场景下，有许多网络方案可供选择，我选择了通过自建headscale来建立跨区域VPN，使得这些分散的主机可以互相访问。在这种情况下，他们能够通过各自的**内网网卡IP地址实现互相的访问**。

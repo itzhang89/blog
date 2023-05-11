@@ -1,13 +1,12 @@
 ---
-title: "如何利用hugo快速创建一个静态博客网站"
-date: 2023-05-09T12:28:33+08:00
-draft: true
-categories:
-    - others
-tags:
-    - demo
+categories: []
+date: "2023-05-11T15:29:50+08:00"
+description: 准备工作
+image: ""
+slug: ru-he-li-yong-hugokuai-su-chuang-jian-ge-jing-tai-bo-ke-wang-zhan
+tags: []
+title: 如何利用hugo快速创建一个静态博客网站
 ---
-
 #### 在 Github 中新建一个 public 的repositery
 
 准备工作

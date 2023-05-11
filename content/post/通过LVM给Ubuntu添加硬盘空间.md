@@ -1,13 +1,16 @@
 ---
-title: "如何通过LVM给Ubuntu添加硬盘空间"
-date: 2023-04-30T12:28:33+08:00
-draft: true
 categories:
     - devops
+date: "2023-05-11T15:30:10+08:00"
+description: !!binary |
+    5pyA6L+R5a6e6aqM5a6k55qE5pyN5Yqh5Zmo5a2Y5YKo5a656YeP5LiN5aSf5LqG77yM5Y
+    eG5aSH5re75Yqg56Gs55uY5p2l6L+b6KGM5omp5a6544CC5pyN5Yqh5Zmo5L2/5w==
+image: ""
+slug: tong-guo-lvmgei-ubuntutian-jia-ying-pan-kong-jian
 tags:
     - linux
+title: 通过LVM给Ubuntu添加硬盘空间
 ---
-
 # 通过LVM给Ubuntu添加硬盘空间
 
 最近实验室的服务器存储容量不够了，准备添加硬盘来进行扩容。服务器使用了 LVM 来存储 /home 目录的内容，而之前对 LVM 的了解较少，因此对 LVM 进行了一些了解。并通过虚拟机来模拟了硬盘的添加，实验了硬盘添加后进行扩容的操作。相关内容记录于此形成本文。
