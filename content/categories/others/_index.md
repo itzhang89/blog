@@ -1,5 +1,5 @@
 ---
-title: Others Category
+title: Others
 description: 一些杂七杂八的笔记或者心得
 image:
 
