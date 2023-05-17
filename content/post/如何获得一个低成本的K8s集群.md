@@ -432,7 +432,6 @@ ubuntu01    NotReady   <none>          25h   v1.26.0   192.168.50.2     <none>  
 
 ---
 
-1.
-官方的K8s安装教程 [Creating a cluster with kubeadm | Kubernetes](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
+1. 官方的K8s安装教程 [Creating a cluster with kubeadm | Kubernetes](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
 2. [kubeadm 部署的 k8s 增加 ip 并重新生成证书-阿里云开发者社区](https://developer.aliyun.com/article/1094847)
 3. [ssl - How can I add an additional IP / hostname to my Kubernetes certificate? - DevOps Stack Exchange](https://devops.stackexchange.com/questions/9483/how-can-i-add-an-additional-ip-hostname-to-my-kubernetes-certificate)
