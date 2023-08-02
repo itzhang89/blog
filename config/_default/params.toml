@@ -4,8 +4,8 @@ mainSections = ["post"]
 rssFullContent = true
 
 [footer]
-since = 2020
-customText = ""
+since = 2023
+customText = '<a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2022020228号-1</a>'
 
 [dateFormat]
 published = "Jan 02, 2006"
