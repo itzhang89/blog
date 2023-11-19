@@ -17,8 +17,8 @@ icon = "brand-github"
 
 [[social]]
 identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+name = "FaPai"
+url = "https://ts.ilovestudy.top/login"
 
 [social.params]
 icon = "brand-twitter"
